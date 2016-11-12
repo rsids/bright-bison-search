@@ -1,5 +1,5 @@
 <?php
-require(__DIR__ . '/library/Bright/Bright.php');
+require(__DIR__ . '/../../library/Bright/Bright.php');
 require(__DIR__ . '/BrightSearch.php');
 
 $u = new BrightUtils();
